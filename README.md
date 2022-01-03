@@ -1,1 +1,1 @@
-# ismingyuan.github.io
+# hexo_blog
