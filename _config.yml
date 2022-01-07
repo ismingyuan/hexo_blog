@@ -104,8 +104,7 @@ theme: keep
 deploy:
   type: git
   repo: 
-    github: https://github.com/ismingyuan/ismingyuan.github.io.git 
-    coding: https://e.coding.net/ismingyuan/hexo/ismingyuan.coding.me.git
+    github: https://github.com/ismingyuan/ismingyuan.github.io.git
   branch: master # 分支名称。默认填写 master 如果您使用的是 GitHub ，程序会尝试自动检测。
   message: # 提交信息可以自定义，不填的则默认为提交时间
 
